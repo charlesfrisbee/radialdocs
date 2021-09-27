@@ -5,12 +5,6 @@ Radial is currently developing a REST API to simplify the process of engineering
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 The API exposes a single POST endpoint at:
 
 ## Headers
